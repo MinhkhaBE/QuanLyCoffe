@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="Food_LinQ">
+  <DataContextMoniker Name="/Food_LinQDataContext" />
+  <nestedChildShapes>
+    <classShape Id="77166deb-a69f-4b32-acb5-1724f87078cd" absoluteBounds="4.25, 2.125, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/Food_LinQDataContext/Food_linq" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ef029962-2521-40e3-bc27-fd378920a0f8" absoluteBounds="4.265, 2.585, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

@@ -1,0 +1,268 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B9E81645-643C-4929-9AB0-04C2DCE0DB0D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>QuanLyQuanKaraoke</RootNamespace>
+    <AssemblyName>QuanLyQuanKaraoke</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AxShockwaveFlashObjects, Version=1.0.0.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="Excel.4.5">
+      <HintPath>D:\CongNghePhanMen\New folder\ExcelDataReader-f-portable\output\net45\Excel.4.5.dll</HintPath>
+    </Reference>
+    <Reference Include="ExcelDataReader">
+      <HintPath>..\packages\ExcelDataReader.3.6.0\lib\net45\ExcelDataReader.dll</HintPath>
+    </Reference>
+    <Reference Include="ExcelDataReader.DataSet">
+      <HintPath>..\packages\ExcelDataReader.DataSet.3.6.0\lib\net35\ExcelDataReader.DataSet.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.IO.Compression" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Z.Dapper.Plus">
+      <HintPath>..\packages\Z.Dapper.Plus.3.0.5\lib\net45\Z.Dapper.Plus.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CrystalReport1.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport1.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DAO\AccountDAO.cs" />
+    <Compile Include="DAO\BillDAO.cs" />
+    <Compile Include="DAO\BillInfoDAO.cs" />
+    <Compile Include="DAO\CategoryDAO.cs" />
+    <Compile Include="DAO\DataProvider.cs" />
+    <Compile Include="DAO\FoodCategoryDAO.cs" />
+    <Compile Include="DAO\FoodDAO.cs" />
+    <Compile Include="DAO\MenuDAO.cs" />
+    <Compile Include="DAO\TableDAO.cs" />
+    <Compile Include="DataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DTO\Account.cs" />
+    <Compile Include="DTO\Bill.cs" />
+    <Compile Include="DTO\BillInfo.cs" />
+    <Compile Include="DTO\Category.cs" />
+    <Compile Include="DTO\Food_DTO.cs" />
+    <Compile Include="DTO\FoodCategory.cs" />
+    <Compile Include="DTO\Menu.cs" />
+    <Compile Include="DTO\Table.cs" />
+    <Compile Include="Food_LinQ.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Food_LinQ.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="frAccountProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frAccountProfile.Designer.cs">
+      <DependentUpon>frAccountProfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frAdmin.Designer.cs">
+      <DependentUpon>frAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frLogin.Designer.cs">
+      <DependentUpon>frLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frManager.Designer.cs">
+      <DependentUpon>frManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frReport.Designer.cs">
+      <DependentUpon>frReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="CrystalReport1.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport1.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Food_LinQ.dbml.layout">
+      <DependentUpon>Food_LinQ.dbml</DependentUpon>
+    </None>
+    <EmbeddedResource Include="frAccountProfile.resx">
+      <DependentUpon>frAccountProfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frAdmin.resx">
+      <DependentUpon>frAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frLogin.resx">
+      <DependentUpon>frLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frManager.resx">
+      <DependentUpon>frManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frReport.resx">
+      <DependentUpon>frReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="DataSet1.xsc">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet1.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet1.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet1.xss">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Food_LinQ.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>Food_LinQ.designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{3259AA49-8AA1-44D3-9025-A0B520596A8C}" />
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Icon\2157e7d7cd8852a.jpg" />
+    <Content Include="Icon\81625914_2199834956980057_8183107648976060416_n.png" />
+    <Content Include="Icon\d1d84a07cd146e52f9448dd56234304a.jpg" />
+    <Content Include="Icon\if_24_311157.ico" />
+    <Content Include="Icon\if_back_126585.ico" />
+    <Content Include="Icon\if_Close_1891023.ico" />
+    <Content Include="Icon\if_compose_1055085.ico" />
+    <Content Include="Icon\if_document-02_1622834.ico" />
+    <Content Include="Icon\if_document-new_38981.ico" />
+    <Content Include="Icon\if_document_add_48755.ico" />
+    <Content Include="Icon\if_draw-eraser_79752.ico" />
+    <Content Include="Icon\if_exit-to-app_326635.ico" />
+    <Content Include="Icon\if_exit_28363.ico" />
+    <Content Include="Icon\if_f-cross_256_282471.ico" />
+    <Content Include="Icon\if_file-manager_17904.ico" />
+    <Content Include="Icon\if_file_3131963.ico" />
+    <Content Include="Icon\if_folder_add_51912.ico" />
+    <Content Include="Icon\if_forward_126569.ico" />
+    <Content Include="Icon\if_free-27_616650.ico" />
+    <Content Include="Icon\if_friend_finder_101840.ico" />
+    <Content Include="Icon\if_gtk-refresh_48111.ico" />
+    <Content Include="Icon\if_Help_1493288.ico" />
+    <Content Include="Icon\if_icon-101-folder-search_314678.ico" />
+    <Content Include="Icon\if_icon-person-add_211872.ico" />
+    <Content Include="Icon\if_ic_done_all_48px_352324.ico" />
+    <Content Include="Icon\if_list-add-user_9381.ico" />
+    <Content Include="Icon\if_Login_73221.ico" />
+    <Content Include="Icon\if_packing_49602.ico" />
+    <Content Include="Icon\if_plus_16_22608.ico" />
+    <Content Include="Icon\if_Purse_669953.ico" />
+    <Content Include="Icon\if_search_173095.ico" />
+    <Content Include="Icon\if_search_322497.ico" />
+    <Content Include="Icon\if_shop-13_730798.ico" />
+    <Content Include="Icon\if_shopping_bag_172551.ico" />
+    <Content Include="Icon\if_userconfig_7388.ico" />
+    <Content Include="Icon\if_view-refresh_118801.ico" />
+    <None Include="Resources\icons8-delete-32.png" />
+    <None Include="Resources\icons8-safe-out-32.png" />
+    <None Include="Resources\icons8-sign-out-32.png" />
+    <None Include="Resources\icons8-microsoft-excel-32.png" />
+    <None Include="Resources\icons8-update-tag-32.png" />
+    <None Include="Resources\icons8-add-new-32.png" />
+    <None Include="Resources\icons8-search-property-32.png" />
+    <None Include="Resources\icons8-report-card-32.png" />
+    <None Include="Resources\icons8-expensive-price-32.png" />
+    <None Include="Resources\icons8-coffee-table-32.png" />
+    <None Include="Resources\icons8-get-a-discount-32.png" />
+    <None Include="Resources\dining.png" />
+    <None Include="Resources\table.png" />
+    <None Include="Resources\iconfinder_insert-object_23421.png" />
+    <None Include="Resources\11.png" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

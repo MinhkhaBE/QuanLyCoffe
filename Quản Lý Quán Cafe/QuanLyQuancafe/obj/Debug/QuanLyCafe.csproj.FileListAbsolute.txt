@@ -1,0 +1,117 @@
+C:\Users\HP\Downloads\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.frAccountProfile.resources
+C:\Users\HP\Downloads\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.frAdmin.resources
+C:\Users\HP\Downloads\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.frLogin.resources
+C:\Users\HP\Downloads\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.frManager.resources
+C:\Users\HP\Downloads\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.frReport.resources
+C:\Users\HP\Downloads\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.Properties.Resources.resources
+C:\Users\HP\Downloads\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyCafe.csproj.GenerateResource.Cache
+C:\Users\HP\Downloads\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.exe
+C:\Users\HP\Downloads\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.pdb
+C:\Users\HP\Downloads\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\QuanLyQuanKaraoke.exe.config
+C:\Users\HP\Downloads\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\QuanLyQuanKaraoke.exe
+C:\Users\HP\Downloads\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\QuanLyQuanKaraoke.pdb
+C:\Users\HP\Downloads\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\HP\Downloads\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\ExcelDataReader.dll
+C:\Users\HP\Downloads\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\Z.Dapper.Plus.dll
+C:\Users\HP\Downloads\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\HP\Downloads\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\HP\Downloads\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\ExcelDataReader.pdb
+C:\Users\HP\Downloads\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\ExcelDataReader.xml
+C:\Users\HP\Downloads\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\HP\Downloads\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\HP\Downloads\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\Z.Dapper.Plus.xml
+D:\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\QuanLyQuanKaraoke.exe.config
+D:\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.exe
+D:\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.pdb
+D:\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\QuanLyQuanKaraoke.exe
+D:\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\QuanLyQuanKaraoke.pdb
+D:\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\ExcelDataReader.DataSet.dll
+D:\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\ExcelDataReader.dll
+D:\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\Z.Dapper.Plus.dll
+D:\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\ShockwaveFlashObjects.dll
+D:\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\ExcelDataReader.pdb
+D:\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\ExcelDataReader.xml
+D:\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\ExcelDataReader.DataSet.xml
+D:\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\Z.Dapper.Plus.xml
+D:\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyCafe.csprojResolveAssemblyReference.cache
+D:\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.frAccountProfile.resources
+D:\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.frAdmin.resources
+D:\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.frLogin.resources
+D:\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.frManager.resources
+D:\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.frReport.resources
+D:\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.Properties.Resources.resources
+D:\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyCafe.csproj.GenerateResource.Cache
+C:\Users\Admin\OneDrive\Desktop\CNPM (1)\CNPM\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\QuanLyQuanKaraoke.exe.config
+C:\Users\Admin\OneDrive\Desktop\CNPM (1)\CNPM\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.exe
+C:\Users\Admin\OneDrive\Desktop\CNPM (1)\CNPM\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.pdb
+C:\Users\Admin\OneDrive\Desktop\Đồ án CNPM\Quản Lý Quán Cafe\QuanLyQuancafe\bin\Debug\QuanLyQuanKaraoke.exe.config
+C:\Users\Admin\OneDrive\Desktop\Đồ án CNPM\Quản Lý Quán Cafe\QuanLyQuancafe\obj\Debug\QuanLyQuanKaraoke.exe
+C:\Users\Admin\OneDrive\Desktop\Đồ án CNPM\Quản Lý Quán Cafe\QuanLyQuancafe\obj\Debug\QuanLyQuanKaraoke.pdb
+C:\Users\Admin\OneDrive\Desktop\Đồ án CNPM\Đồ án CNPM\Quản Lý Quán Cafe\QuanLyQuancafe\bin\Debug\QuanLyQuanKaraoke.exe.config
+C:\Users\Admin\OneDrive\Desktop\Đồ án CNPM\Đồ án CNPM\Quản Lý Quán Cafe\QuanLyQuancafe\obj\Debug\QuanLyQuanKaraoke.exe
+C:\Users\Admin\OneDrive\Desktop\Đồ án CNPM\Đồ án CNPM\Quản Lý Quán Cafe\QuanLyQuancafe\obj\Debug\QuanLyQuanKaraoke.pdb
+C:\Users\Admin\OneDrive\Desktop\Đồ án CNPM\Đồ án CNPM\Quản Lý Quán Cafe\QuanLyQuancafe\bin\Debug\QuanLyQuanKaraoke.exe
+C:\Users\Admin\OneDrive\Desktop\Đồ án CNPM\Đồ án CNPM\Quản Lý Quán Cafe\QuanLyQuancafe\bin\Debug\QuanLyQuanKaraoke.pdb
+C:\Users\Admin\OneDrive\Desktop\Đồ án CNPM\Đồ án CNPM\Quản Lý Quán Cafe\QuanLyQuancafe\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án CNPM\Đồ án CNPM\Quản Lý Quán Cafe\QuanLyQuancafe\bin\Debug\ExcelDataReader.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án CNPM\Đồ án CNPM\Quản Lý Quán Cafe\QuanLyQuancafe\bin\Debug\Z.Dapper.Plus.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án CNPM\Đồ án CNPM\Quản Lý Quán Cafe\QuanLyQuancafe\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Admin\OneDrive\Desktop\Đồ án CNPM\Đồ án CNPM\Quản Lý Quán Cafe\QuanLyQuancafe\bin\Debug\ExcelDataReader.pdb
+C:\Users\Admin\OneDrive\Desktop\Đồ án CNPM\Đồ án CNPM\Quản Lý Quán Cafe\QuanLyQuancafe\bin\Debug\ExcelDataReader.xml
+C:\Users\Admin\OneDrive\Desktop\Đồ án CNPM\Đồ án CNPM\Quản Lý Quán Cafe\QuanLyQuancafe\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\Admin\OneDrive\Desktop\Đồ án CNPM\Đồ án CNPM\Quản Lý Quán Cafe\QuanLyQuancafe\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Admin\OneDrive\Desktop\Đồ án CNPM\Đồ án CNPM\Quản Lý Quán Cafe\QuanLyQuancafe\bin\Debug\Z.Dapper.Plus.xml
+C:\Users\Admin\OneDrive\Desktop\Đồ án CNPM\Đồ án CNPM\Quản Lý Quán Cafe\QuanLyQuancafe\obj\Debug\QuanLyCafe.csprojResolveAssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\Đồ án CNPM\Đồ án CNPM\Quản Lý Quán Cafe\QuanLyQuancafe\obj\Debug\QuanLyQuanKaraoke.frAccountProfile.resources
+C:\Users\Admin\OneDrive\Desktop\Đồ án CNPM\Đồ án CNPM\Quản Lý Quán Cafe\QuanLyQuancafe\obj\Debug\QuanLyQuanKaraoke.frAdmin.resources
+C:\Users\Admin\OneDrive\Desktop\Đồ án CNPM\Đồ án CNPM\Quản Lý Quán Cafe\QuanLyQuancafe\obj\Debug\QuanLyQuanKaraoke.frLogin.resources
+C:\Users\Admin\OneDrive\Desktop\Đồ án CNPM\Đồ án CNPM\Quản Lý Quán Cafe\QuanLyQuancafe\obj\Debug\QuanLyQuanKaraoke.frManager.resources
+C:\Users\Admin\OneDrive\Desktop\Đồ án CNPM\Đồ án CNPM\Quản Lý Quán Cafe\QuanLyQuancafe\obj\Debug\QuanLyQuanKaraoke.frReport.resources
+C:\Users\Admin\OneDrive\Desktop\Đồ án CNPM\Đồ án CNPM\Quản Lý Quán Cafe\QuanLyQuancafe\obj\Debug\QuanLyQuanKaraoke.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Desktop\Đồ án CNPM\Đồ án CNPM\Quản Lý Quán Cafe\QuanLyQuancafe\obj\Debug\QuanLyCafe.csproj.GenerateResource.Cache
+C:\Users\Admin\OneDrive\Desktop\Phần mềm ql quán coffee\Quản Lý Quán Cafe\QuanLyQuancafe\bin\Debug\QuanLyQuanKaraoke.exe.config
+C:\Users\Admin\OneDrive\Desktop\Phần mềm ql quán coffee\Quản Lý Quán Cafe\QuanLyQuancafe\obj\Debug\QuanLyQuanKaraoke.exe
+C:\Users\Admin\OneDrive\Desktop\Phần mềm ql quán coffee\Quản Lý Quán Cafe\QuanLyQuancafe\obj\Debug\QuanLyQuanKaraoke.pdb
+C:\Users\Admin\OneDrive\Desktop\Phần mềm ql quán coffee\Quản Lý Quán Cafe\QuanLyQuancafe\bin\Debug\QuanLyQuanKaraoke.exe
+C:\Users\Admin\OneDrive\Desktop\Phần mềm ql quán coffee\Quản Lý Quán Cafe\QuanLyQuancafe\bin\Debug\QuanLyQuanKaraoke.pdb
+C:\Users\Admin\OneDrive\Desktop\Phần mềm ql quán coffee\Quản Lý Quán Cafe\QuanLyQuancafe\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Admin\OneDrive\Desktop\Phần mềm ql quán coffee\Quản Lý Quán Cafe\QuanLyQuancafe\bin\Debug\ExcelDataReader.dll
+C:\Users\Admin\OneDrive\Desktop\Phần mềm ql quán coffee\Quản Lý Quán Cafe\QuanLyQuancafe\bin\Debug\Z.Dapper.Plus.dll
+C:\Users\Admin\OneDrive\Desktop\Phần mềm ql quán coffee\Quản Lý Quán Cafe\QuanLyQuancafe\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Admin\OneDrive\Desktop\Phần mềm ql quán coffee\Quản Lý Quán Cafe\QuanLyQuancafe\bin\Debug\ExcelDataReader.pdb
+C:\Users\Admin\OneDrive\Desktop\Phần mềm ql quán coffee\Quản Lý Quán Cafe\QuanLyQuancafe\bin\Debug\ExcelDataReader.xml
+C:\Users\Admin\OneDrive\Desktop\Phần mềm ql quán coffee\Quản Lý Quán Cafe\QuanLyQuancafe\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\Admin\OneDrive\Desktop\Phần mềm ql quán coffee\Quản Lý Quán Cafe\QuanLyQuancafe\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Admin\OneDrive\Desktop\Phần mềm ql quán coffee\Quản Lý Quán Cafe\QuanLyQuancafe\bin\Debug\Z.Dapper.Plus.xml
+C:\Users\Admin\OneDrive\Desktop\Phần mềm ql quán coffee\Quản Lý Quán Cafe\QuanLyQuancafe\obj\Debug\QuanLyCafe.csprojResolveAssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\Phần mềm ql quán coffee\Quản Lý Quán Cafe\QuanLyQuancafe\obj\Debug\QuanLyQuanKaraoke.frAccountProfile.resources
+C:\Users\Admin\OneDrive\Desktop\Phần mềm ql quán coffee\Quản Lý Quán Cafe\QuanLyQuancafe\obj\Debug\QuanLyQuanKaraoke.frAdmin.resources
+C:\Users\Admin\OneDrive\Desktop\Phần mềm ql quán coffee\Quản Lý Quán Cafe\QuanLyQuancafe\obj\Debug\QuanLyQuanKaraoke.frLogin.resources
+C:\Users\Admin\OneDrive\Desktop\Phần mềm ql quán coffee\Quản Lý Quán Cafe\QuanLyQuancafe\obj\Debug\QuanLyQuanKaraoke.frManager.resources
+C:\Users\Admin\OneDrive\Desktop\Phần mềm ql quán coffee\Quản Lý Quán Cafe\QuanLyQuancafe\obj\Debug\QuanLyQuanKaraoke.frReport.resources
+C:\Users\Admin\OneDrive\Desktop\Phần mềm ql quán coffee\Quản Lý Quán Cafe\QuanLyQuancafe\obj\Debug\QuanLyQuanKaraoke.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Desktop\Phần mềm ql quán coffee\Quản Lý Quán Cafe\QuanLyQuancafe\obj\Debug\QuanLyCafe.csproj.GenerateResource.Cache
+C:\Users\Admin\OneDrive\Desktop\Phần mềm ql quán coffee\Phần mềm ql quán coffee\Quản Lý Quán Cafe\QuanLyQuancafe\bin\Debug\QuanLyQuanKaraoke.exe.config
+C:\Users\Admin\OneDrive\Desktop\Phần mềm ql quán coffee\Phần mềm ql quán coffee\Quản Lý Quán Cafe\QuanLyQuancafe\obj\Debug\QuanLyQuanKaraoke.exe
+C:\Users\Admin\OneDrive\Desktop\Phần mềm ql quán coffee\Phần mềm ql quán coffee\Quản Lý Quán Cafe\QuanLyQuancafe\obj\Debug\QuanLyQuanKaraoke.pdb
+C:\Users\Admin\OneDrive\Desktop\Phần mềm ql quán coffee\Phần mềm ql quán coffee\Quản Lý Quán Cafe\QuanLyQuancafe\bin\Debug\QuanLyQuanKaraoke.exe
+C:\Users\Admin\OneDrive\Desktop\Phần mềm ql quán coffee\Phần mềm ql quán coffee\Quản Lý Quán Cafe\QuanLyQuancafe\bin\Debug\QuanLyQuanKaraoke.pdb
+C:\Users\Admin\OneDrive\Desktop\Phần mềm ql quán coffee\Phần mềm ql quán coffee\Quản Lý Quán Cafe\QuanLyQuancafe\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Admin\OneDrive\Desktop\Phần mềm ql quán coffee\Phần mềm ql quán coffee\Quản Lý Quán Cafe\QuanLyQuancafe\bin\Debug\ExcelDataReader.dll
+C:\Users\Admin\OneDrive\Desktop\Phần mềm ql quán coffee\Phần mềm ql quán coffee\Quản Lý Quán Cafe\QuanLyQuancafe\bin\Debug\Z.Dapper.Plus.dll
+C:\Users\Admin\OneDrive\Desktop\Phần mềm ql quán coffee\Phần mềm ql quán coffee\Quản Lý Quán Cafe\QuanLyQuancafe\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Admin\OneDrive\Desktop\Phần mềm ql quán coffee\Phần mềm ql quán coffee\Quản Lý Quán Cafe\QuanLyQuancafe\bin\Debug\ExcelDataReader.pdb
+C:\Users\Admin\OneDrive\Desktop\Phần mềm ql quán coffee\Phần mềm ql quán coffee\Quản Lý Quán Cafe\QuanLyQuancafe\bin\Debug\ExcelDataReader.xml
+C:\Users\Admin\OneDrive\Desktop\Phần mềm ql quán coffee\Phần mềm ql quán coffee\Quản Lý Quán Cafe\QuanLyQuancafe\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\Admin\OneDrive\Desktop\Phần mềm ql quán coffee\Phần mềm ql quán coffee\Quản Lý Quán Cafe\QuanLyQuancafe\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Admin\OneDrive\Desktop\Phần mềm ql quán coffee\Phần mềm ql quán coffee\Quản Lý Quán Cafe\QuanLyQuancafe\bin\Debug\Z.Dapper.Plus.xml
+C:\Users\Admin\OneDrive\Desktop\Phần mềm ql quán coffee\Phần mềm ql quán coffee\Quản Lý Quán Cafe\QuanLyQuancafe\obj\Debug\QuanLyCafe.csprojResolveAssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\Phần mềm ql quán coffee\Phần mềm ql quán coffee\Quản Lý Quán Cafe\QuanLyQuancafe\obj\Debug\QuanLyQuanKaraoke.frAccountProfile.resources
+C:\Users\Admin\OneDrive\Desktop\Phần mềm ql quán coffee\Phần mềm ql quán coffee\Quản Lý Quán Cafe\QuanLyQuancafe\obj\Debug\QuanLyQuanKaraoke.frAdmin.resources
+C:\Users\Admin\OneDrive\Desktop\Phần mềm ql quán coffee\Phần mềm ql quán coffee\Quản Lý Quán Cafe\QuanLyQuancafe\obj\Debug\QuanLyQuanKaraoke.frLogin.resources
+C:\Users\Admin\OneDrive\Desktop\Phần mềm ql quán coffee\Phần mềm ql quán coffee\Quản Lý Quán Cafe\QuanLyQuancafe\obj\Debug\QuanLyQuanKaraoke.frManager.resources
+C:\Users\Admin\OneDrive\Desktop\Phần mềm ql quán coffee\Phần mềm ql quán coffee\Quản Lý Quán Cafe\QuanLyQuancafe\obj\Debug\QuanLyQuanKaraoke.frReport.resources
+C:\Users\Admin\OneDrive\Desktop\Phần mềm ql quán coffee\Phần mềm ql quán coffee\Quản Lý Quán Cafe\QuanLyQuancafe\obj\Debug\QuanLyQuanKaraoke.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Desktop\Phần mềm ql quán coffee\Phần mềm ql quán coffee\Quản Lý Quán Cafe\QuanLyQuancafe\obj\Debug\QuanLyCafe.csproj.GenerateResource.Cache

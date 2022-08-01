@@ -1,0 +1,80 @@
+E:\BT\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\QuanLyQuanKaraoke.exe.config
+E:\BT\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\QuanLyQuanKaraoke.exe
+E:\BT\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\QuanLyQuanKaraoke.pdb
+E:\BT\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.Properties.Resources.resources
+E:\BT\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.csproj.GenerateResource.cache
+E:\BT\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.exe
+E:\BT\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.pdb
+E:\BT\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.frLogin.resources
+E:\BT\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.frManager.resources
+E:\BT\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.frAccountProfile.resources
+E:\BT\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.frAdmin.resources
+E:\BT\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\AxShockwaveFlashObjects.dll
+E:\BT\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\BT\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\BT\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\CrystalDecisions.Shared.dll
+E:\BT\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\BT\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\ShockwaveFlashObjects.dll
+E:\BT\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\BT\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\BT\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\BT\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\BT\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\BT\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\BT\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\BT\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\BT\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\BT\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\BT\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\BT\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\stdole.dll
+E:\BT\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\BT\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.csproj.CopyComplete
+E:\BT\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.frReport.resources
+E:\BT\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.csprojAssemblyReference.cache
+C:\Users\TRI DUNG\Desktop\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\QuanLyQuanKaraoke.exe.config
+C:\Users\TRI DUNG\Desktop\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.exe
+C:\Users\TRI DUNG\Desktop\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.pdb
+C:\Users\TRI DUNG\Desktop\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\QuanLyQuanKaraoke.exe
+C:\Users\TRI DUNG\Desktop\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\QuanLyQuanKaraoke.pdb
+C:\Users\TRI DUNG\Desktop\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.csprojResolveAssemblyReference.cache
+C:\Users\TRI DUNG\Desktop\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.frAccountProfile.resources
+C:\Users\TRI DUNG\Desktop\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.frAdmin.resources
+C:\Users\TRI DUNG\Desktop\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.frLogin.resources
+C:\Users\TRI DUNG\Desktop\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.frManager.resources
+C:\Users\TRI DUNG\Desktop\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.frReport.resources
+C:\Users\TRI DUNG\Desktop\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.Properties.Resources.resources
+C:\Users\TRI DUNG\Desktop\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.csproj.GenerateResource.Cache
+C:\Users\TRI DUNG\Desktop\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\Excel.4.5.dll
+C:\Users\TRI DUNG\Desktop\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\TRI DUNG\Desktop\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\TRI DUNG\Desktop\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\ExcelDataReader.dll
+C:\Users\TRI DUNG\Desktop\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\Z.Dapper.Plus.dll
+C:\Users\TRI DUNG\Desktop\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\ExcelDataReader.pdb
+C:\Users\TRI DUNG\Desktop\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\ExcelDataReader.xml
+C:\Users\TRI DUNG\Desktop\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\TRI DUNG\Desktop\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\TRI DUNG\Desktop\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\Z.Dapper.Plus.xml
+C:\Users\HP\Downloads\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\QuanLyQuanKaraoke.exe.config
+C:\Users\HP\Downloads\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.exe
+C:\Users\HP\Downloads\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.pdb
+C:\Users\HP\Downloads\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.csprojResolveAssemblyReference.cache
+C:\Users\HP\Downloads\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.frAccountProfile.resources
+C:\Users\HP\Downloads\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.frAdmin.resources
+C:\Users\HP\Downloads\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.frLogin.resources
+C:\Users\HP\Downloads\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.frManager.resources
+C:\Users\HP\Downloads\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.frReport.resources
+C:\Users\HP\Downloads\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.Properties.Resources.resources
+C:\Users\HP\Downloads\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyQuanKaraoke.csproj.GenerateResource.Cache
+C:\Users\HP\Downloads\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\QuanLyQuanKaraoke.exe
+C:\Users\HP\Downloads\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\QuanLyQuanKaraoke.pdb
+C:\Users\HP\Downloads\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\HP\Downloads\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\ExcelDataReader.dll
+C:\Users\HP\Downloads\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\Z.Dapper.Plus.dll
+C:\Users\HP\Downloads\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\HP\Downloads\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\HP\Downloads\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\ExcelDataReader.pdb
+C:\Users\HP\Downloads\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\ExcelDataReader.xml
+C:\Users\HP\Downloads\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\HP\Downloads\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\HP\Downloads\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\bin\Debug\Z.Dapper.Plus.xml
+C:\Users\HP\Downloads\doanNet_Khoa\QuanLyQuanKaraoke\QuanLyQuanKaraoke\obj\Debug\QuanLyCafe.frAdmin.resources
